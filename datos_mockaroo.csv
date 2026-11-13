@@ -1,0 +1,1001 @@
+id_producto,nombre,precio,stock,categoria_id
+1,Wine - Jackson Triggs Okonagan,41244,166,2
+2,"Tendrils - Baby Pea, Organic",84771,97,4
+3,Ice Cream - Fudge Bars,25781,52,3
+4,Quail - Jumbo,80004,215,2
+5,Grenadine,69953,235,2
+6,Cod - Black Whole Fillet,2181,189,4
+7,Dried Cranberries,92570,57,2
+8,"Juice - Grapefruit, 341 Ml",7284,257,1
+9,Dooleys Toffee,94240,70,2
+10,Veal - Osso Bucco,13717,213,3
+11,Bread - Sour Batard,75149,277,2
+12,Chocolate - Milk,10515,6,1
+13,Bread Fig And Almond,48945,34,3
+14,Vinegar - Cider,21855,146,4
+15,Chocolate - Unsweetened,51996,260,2
+16,"Salsify, Organic",43717,136,4
+17,"Beef - Tongue, Cooked",73718,273,5
+18,Flour - Pastry,27357,189,1
+19,Trout - Smoked,68452,146,3
+20,"Pasta - Lasagna, Dry",17573,26,4
+21,Snapple - Mango Maddness,2954,60,1
+22,Lamb - Whole Head Off,8512,258,4
+23,Pie Filling - Cherry,62536,233,4
+24,Liqueur - Melon,62569,128,4
+25,"Beans - Kidney, Red Dry",7713,47,5
+26,Campari,60797,169,1
+27,Mints - Striped Red,45305,44,3
+28,Wine - Casillero Deldiablo,16809,78,4
+29,Marjoram - Fresh,5786,205,1
+30,Potatoes - Mini Red,2876,292,5
+31,Poppy Seed,55359,250,2
+32,Veal - Eye Of Round,40587,137,1
+33,Plasticknivesblack,52603,150,4
+34,Wine - Puligny Montrachet A.,16732,232,1
+35,Beef - Striploin,15351,276,2
+36,Honey - Comb,76936,165,1
+37,Scallops - 10/20,52035,15,5
+38,Tomatoes - Cherry,19050,123,3
+39,"Soup - Campbells, Beef Barley",15356,95,1
+40,Flour - Strong Pizza,31512,27,5
+41,Longos - Grilled Salmon With Bbq,26932,56,1
+42,Cheese - Gouda,60834,179,5
+43,Madeira,73269,144,5
+44,Lettuce - Sea / Sea Asparagus,5903,56,2
+45,Chocolate Bar - Oh Henry,18848,71,2
+46,Longos - Penne With Pesto,42318,105,1
+47,Fenngreek Seed,99264,258,1
+48,Coffee Cup 8oz 5338cd,60778,206,3
+49,"Pasta - Cannelloni, Sheets, Fresh",36084,6,4
+50,"Mushroom - Oyster, Fresh",2357,69,3
+51,Lobster - Canned Premium,22683,81,5
+52,"Stock - Chicken, White",46890,142,3
+53,Cod - Fillets,72225,244,2
+54,Island Oasis - Raspberry,56439,163,2
+55,Gatorade - Cool Blue Raspberry,19812,108,5
+56,Lamb Shoulder Boneless Nz,72617,254,5
+57,Peach - Halves,29190,185,3
+58,Syrup - Pancake,72435,52,5
+59,Banana Turning,59118,14,4
+60,Wine - Placido Pinot Grigo,44326,161,2
+61,Snapple - Iced Tea Peach,34022,286,5
+62,Table Cloth 62x114 Colour,3666,220,5
+63,Soup - Campbells Chili,15233,112,3
+64,"Vodka - Hot, Lnferno",56441,276,3
+65,Temperature Recording Station,71776,52,2
+66,Bread Cranberry Foccacia,87738,120,4
+67,Squid - Breaded,74805,97,5
+68,Absolut Citron,23275,240,4
+69,Bread - Pain Au Liat X12,35273,59,1
+70,"Lamb - Racks, Frenched",38732,229,2
+71,Bacardi Breezer - Strawberry,5329,65,2
+72,"Asparagus - Green, Fresh",90739,58,5
+73,Roe - Flying Fish,54593,9,4
+74,Venison - Denver Leg Boneless,27326,227,1
+75,Wine - Casablanca Valley,20622,61,1
+76,"Soup - Cream Of Broccoli, Dry",61458,215,5
+77,Kahlua,45775,219,1
+78,"Wine - White, Antinore Orvieto",99580,156,5
+79,"Lamb - Leg, Diced",9204,190,1
+80,Bread - Bistro Sour,89512,217,5
+81,Bread - Rosemary Focaccia,41201,202,5
+82,"Wine - Mas Chicet Rose, Vintage",30343,16,4
+83,Cheese - St. Andre,2843,48,4
+84,Apple - Royal Gala,30958,246,1
+85,Cheese - Victor Et Berthold,16819,91,3
+86,Orange - Blood,74600,232,2
+87,Wine - Chardonnay Mondavi,41538,148,1
+88,"Pepper - White, Ground",20674,16,4
+89,"Salmon - Atlantic, Fresh, Whole",48779,254,4
+90,Tea Peppermint,63997,294,3
+91,Flour - Strong Pizza,90665,146,4
+92,Coffee - Egg Nog Capuccino,44772,291,1
+93,"Bread - Crumbs, Bulk",26611,39,3
+94,Mix Pina Colada,94175,34,2
+95,Juice - Orange 1.89l,75075,174,4
+96,Smoked Paprika,54288,183,3
+97,"Lamb - Leg, Boneless",35667,209,1
+98,Carbonated Water - Lemon Lime,46003,222,1
+99,Tart - Butter Plain Squares,79709,277,2
+100,"Tray - Foam, Square 4 - S",86088,110,1
+101,Bag - Clear 7 Lb,75708,281,1
+102,Tomatoes Tear Drop,21744,267,1
+103,"Tortillas - Flour, 10",67490,272,5
+104,Cranberries - Dry,92812,234,3
+105,"Soup - Campbells, Lentil",13472,267,2
+106,Capers - Pickled,72654,2,2
+107,Numi - Assorted Teas,31041,110,4
+108,Puree - Kiwi,70315,70,2
+109,Radish,8415,299,4
+110,Brandy Cherry - Mcguinness,20692,254,3
+111,Bouq All Italian - Primerba,80891,56,5
+112,Flower - Commercial Bronze,53943,131,5
+113,"Vermacelli - Sprinkles, Assorted",28330,43,5
+114,Melon - Cantaloupe,81156,250,2
+115,Table Cloth 72x144 White,28858,60,5
+116,Steampan - Half Size Shallow,83868,154,4
+117,Puree - Guava,48741,216,5
+118,"Sauce - Gravy, Au Jus, Mix",45900,132,3
+119,Wine - Conde De Valdemar,84647,40,3
+120,Apple - Northern Spy,7561,200,2
+121,Tomatoes,47008,285,5
+122,Cattail Hearts,83959,273,2
+123,Tea - Camomele,84750,17,4
+124,"Mushroom - Shitake, Fresh",49157,125,2
+125,Chick Peas - Dried,83825,121,2
+126,Tamarind Paste,10655,264,4
+127,"Ranchero - Primerba, Paste",64750,41,5
+128,Shrimp - Tiger 21/25,93267,38,1
+129,Pork - European Side Bacon,54605,32,1
+130,Pate - Cognac,87397,114,2
+131,"Pork - Sausage, Medium",13731,32,2
+132,"Soup - Campbells, Classic Chix",42606,71,5
+133,Potatoes - Idaho 100 Count,17308,97,1
+134,Broom And Brush Rack Black,75226,255,2
+135,Sauce - Fish 25 Ozf Bottle,23293,289,4
+136,Worcestershire Sauce,7683,279,3
+137,Jello - Assorted,48720,204,3
+138,Danishes - Mini Raspberry,80669,129,4
+139,Soup Campbells - Italian Wedding,97943,52,2
+140,Macaroons - Homestyle Two Bit,39595,168,5
+141,Oil - Pumpkinseed,88585,85,4
+142,Wine - Merlot Vina Carmen,68631,272,5
+143,Compound - Passion Fruit,87345,257,5
+144,"Turkey - Breast, Double",36699,81,3
+145,Goat - Whole Cut,33011,210,2
+146,"C - Plus, Orange",16449,271,4
+147,Napkin - Beverage 1 Ply,29351,104,1
+148,"Plate - Foam, Bread And Butter",18057,40,3
+149,Foil - 4oz Custard Cup,37426,5,1
+150,Pike - Frozen Fillet,34148,113,3
+151,Straw - Regular,34083,106,5
+152,Coffee - Irish Cream,27022,272,4
+153,Wine - Sake,77447,265,5
+154,Tea - English Breakfast,39422,115,2
+155,Gherkin - Sour,1783,123,2
+156,Appetizer - Southwestern,7227,80,4
+157,"Wine - White, Concha Y Toro",93704,86,5
+158,Hand Towel,51663,175,3
+159,Wine - Chianti Classico Riserva,62940,68,5
+160,"Soda Water - Club Soda, 355 Ml",74475,120,1
+161,"Rosemary - Primerba, Paste",63152,186,4
+162,"Rum - White, Gg White",63015,194,2
+163,"Lemonade - Strawberry, 591 Ml",63816,200,5
+164,Wine - Bouchard La Vignee Pinot,61583,182,2
+165,Bread - Pumpernickel,16636,253,1
+166,Kiwano,17897,166,3
+167,"Nestea - Ice Tea, Diet",31608,84,5
+168,Quail - Jumbo Boneless,61686,260,1
+169,"Beef - Ox Tail, Frozen",82040,73,5
+170,Cheese - Brick With Onion,93678,84,4
+171,Hot Choc Vending,43836,222,3
+172,Vinegar - Rice,68456,294,3
+173,Lentils - Green Le Puy,20969,224,2
+174,Langers - Cranberry Cocktail,58797,102,4
+175,Mussels - Cultivated,51572,134,4
+176,Syrup - Monin - Granny Smith,60101,223,4
+177,Kippers - Smoked,20007,174,4
+178,"Asparagus - White, Canned",57880,190,1
+179,Canadian Emmenthal,84670,229,3
+180,Wine - Chateau Aqueria Tavel,3175,129,1
+181,Sage Derby,71931,232,3
+182,"Arctic Char - Fresh, Whole",9404,259,3
+183,Sword Pick Asst,12105,258,5
+184,Nacho Chips,18686,61,5
+185,"Zucchini - Mini, Green",46384,45,3
+186,Vegetable - Base,58054,178,4
+187,Tomatoes,63115,283,4
+188,Vodka - Smirnoff,97044,237,4
+189,Cheese - Cottage Cheese,75671,295,5
+190,Soup - Campbells Broccoli,38320,155,5
+191,Rice Paper,16394,63,4
+192,Cheese - Gouda,73013,134,4
+193,Dawn Professionl Pot And Pan,86122,162,1
+194,Pails With Lids,16353,285,3
+195,Squash - Pepper,7151,45,5
+196,Mini - Vol Au Vents,57027,246,1
+197,"Pork - Loin, Center Cut",64703,290,4
+198,Wine - Sake,2156,121,3
+199,Muffin Mix - Corn Harvest,83479,96,4
+200,Quail - Jumbo,31234,167,1
+201,"Pepsi - Diet, 355 Ml",61559,82,2
+202,"Flour - Buckwheat, Dark",64122,90,4
+203,"Coffee - Beans, Whole",69428,32,3
+204,Port - 74 Brights,55401,120,4
+205,Cheese - Parmigiano Reggiano,53969,135,3
+206,Fuji Apples,17724,21,5
+207,Aspic - Light,31684,47,2
+208,Pear - Packum,1953,293,3
+209,Ham Black Forest,67571,15,1
+210,Broom - Push,28775,88,1
+211,Quiche Assorted,79728,34,1
+212,Lychee - Canned,96994,233,4
+213,Beer - True North Strong Ale,55525,20,3
+214,Squid - U 5,6914,200,5
+215,Bread Cranberry Foccacia,11749,282,4
+216,"Bread - Pita, Mini",18492,143,5
+217,Yucca,94609,218,3
+218,Lettuce - Green Leaf,95641,159,5
+219,Flower - Potmums,17415,291,4
+220,Cheese Cheddar Processed,33530,24,4
+221,Coffee - Frthy Coffee Crisp,59423,218,3
+222,Nantucket Pine Orangebanana,39696,260,2
+223,Wine - Jafflin Bourgongone,19377,31,2
+224,Cake - Dulce De Leche,3383,116,4
+225,Galliano,68745,2,4
+226,Salt - Seasoned,12431,81,1
+227,"Liners - Banana, Paper",78807,284,3
+228,"Rum - Light, Captain Morgan",33270,208,4
+229,Energy Drink Red Bull,78364,98,3
+230,Chocolate - White,25717,94,2
+231,Sorrel - Fresh,68228,80,1
+232,Hagen Daza - Dk Choocolate,9709,271,2
+233,Onions - Red Pearl,88323,49,3
+234,Triple Sec - Mcguinness,92151,137,1
+235,Tuna - Salad Premix,72119,148,1
+236,Bread - Raisin,41347,24,1
+237,"Soup - Knorr, Chicken Gumbo",25785,17,2
+238,Cheese - Perron Cheddar,66057,139,2
+239,Tart - Raisin And Pecan,93154,44,4
+240,Godiva White Chocolate,70634,227,3
+241,Oranges,77783,99,5
+242,Pork Loin Bine - In Frenched,6433,74,5
+243,Syrup - Monin - Blue Curacao,6756,230,3
+244,Appetizer - Veg Assortment,37983,96,1
+245,V8 - Tropical Blend,40230,88,5
+246,Sugar - Palm,84742,187,1
+247,"Oil - Truffle, Black",33178,288,5
+248,Bread - Bistro White,41500,10,1
+249,"Capon - Breast, Wing On",6403,229,5
+250,Towel - Roll White,32751,220,1
+251,Broccoli - Fresh,40616,274,3
+252,Wine - Vineland Estate Semi - Dry,97591,72,1
+253,Pasta - Fusili Tri - Coloured,86285,104,3
+254,Spring Roll Veg Mini,90553,84,2
+255,Water - Green Tea Refresher,25300,11,1
+256,Wine - Chablis 2003 Champs,42811,228,3
+257,"Orange - Canned, Mandarin",65835,280,3
+258,Tart - Pecan Butter Squares,83181,210,5
+259,Tart - Pecan Butter Squares,79413,178,4
+260,Soup - Campbells,65058,213,5
+261,Squash - Pepper,49220,79,1
+262,"Napkin - Beverge, White 2 - Ply",71972,192,3
+263,Spring Roll Veg Mini,25208,242,5
+264,Pepper - Cubanelle,19400,31,4
+265,"Bread - Roll, Soft White Round",47800,277,2
+266,Towel - Roll White,19340,237,5
+267,Lamb Rack Frenched Australian,68728,248,2
+268,"Vermacelli - Sprinkles, Assorted",30788,100,2
+269,Squeeze Bottle,93487,124,3
+270,Cheese - Marble,42075,95,5
+271,Squash - Sunburst,64543,276,2
+272,Wine - Two Oceans Cabernet,15761,38,2
+273,Wine - Sake,20826,259,2
+274,"Tea - Darjeeling, Azzura",41261,115,5
+275,Sobe - Orange Carrot,70985,17,5
+276,Sprouts - Onion,9357,277,4
+277,Fruit Salad Deluxe,15465,113,2
+278,Pur Source,97043,143,5
+279,Sugar - Monocystal / Rock,30743,202,1
+280,Veal - Nuckle,40155,188,1
+281,Cheese - Brie Roitelet,29491,132,5
+282,Lamb - Ground,41378,296,4
+283,Flax Seed,91865,9,2
+284,Potatoes - Pei 10 Oz,47618,242,1
+285,Beef - Top Butt,52428,41,5
+286,Appetizer - Chicken Satay,29881,8,3
+287,Orange - Blood,41437,113,3
+288,Bag Stand,93876,228,3
+289,Mix - Cocktail Strawberry Daiquiri,26495,127,2
+290,Nantucket - Orange Mango Cktl,82977,11,3
+291,Lettuce - Frisee,40736,93,2
+292,Syrup - Monin - Passion Fruit,37401,247,3
+293,Sugar - Icing,35897,96,5
+294,Bagels Poppyseed,29730,268,1
+295,"Syrup - Monin, Amaretta",76030,80,5
+296,Nori Sea Weed - Gold Label,73101,258,5
+297,Tilapia - Fillets,69005,178,2
+298,"Beef - Bones, Marrow",60247,296,3
+299,Wine - Chateau Aqueria Tavel,6240,167,1
+300,Filter - Coffee,17786,290,1
+301,Crackers Cheez It,39277,159,2
+302,Pasta - Orecchiette,14794,19,4
+303,Cream Of Tartar,83511,264,5
+304,Beans - Yellow,92937,254,5
+305,Cups 10oz Trans,75467,159,5
+306,Gatorade - Lemon Lime,80093,163,4
+307,Ice Cream Bar - Oreo Sandwich,95100,184,2
+308,Otomegusa Dashi Konbu,77869,46,3
+309,"Wine - White, Colubia Cresh",6653,163,3
+310,Trueblue - Blueberry Cranberry,95624,165,4
+311,The Pop Shoppe - Lime Rickey,75220,175,5
+312,Flour - Masa De Harina Mexican,93598,16,4
+313,Beef - Top Butt,57981,259,3
+314,Sauce - Chili,52326,39,4
+315,"Pasta - Cappellini, Dry",98317,280,1
+316,"Pepper - Red, Finger Hot",57423,284,2
+317,Hinge W Undercut,40905,256,5
+318,Snapple - Mango Maddness,63188,83,4
+319,Chips - Potato Jalapeno,10371,133,1
+320,Fish - Bones,46063,30,5
+321,Pork Loin Cutlets,93512,276,4
+322,Cake Slab,97713,103,4
+323,Veal - Liver,6418,207,5
+324,Sole - Iqf,40049,194,2
+325,Tray - 12in Rnd Blk,41035,199,2
+326,Tea - Green,20456,3,4
+327,Tuna - Salad Premix,97117,37,2
+328,Ecolab Crystal Fusion,27244,49,4
+329,Appetizer - Lobster Phyllo Roll,87710,98,5
+330,"Veal - Inside Round / Top, Lean",17949,78,4
+331,Tuna - Loin,82799,258,5
+332,Bread - Olive,2021,41,5
+333,"Bread - Pullman, Sliced",48450,16,1
+334,V8 Pet,66293,226,1
+335,Soup - Campbells Bean Medley,63255,65,2
+336,"Potatoes - Yukon Gold, 80 Ct",70629,46,4
+337,Anisette - Mcguiness,7548,35,1
+338,"Soup - Campbells, Cream Of",21328,226,3
+339,Cups 10oz Trans,36288,84,1
+340,Slt - Individual Portions,24468,138,4
+341,"Mushroom - Enoki, Dry",71036,192,4
+342,Longos - Grilled Salmon With Bbq,72429,3,3
+343,Kiwano,84744,263,2
+344,Bonito Flakes - Toku Katsuo,69136,246,4
+345,Bagelers - Cinn / Brown Sugar,7407,267,2
+346,Oil - Grapeseed Oil,57714,230,5
+347,Beef - Striploin,27859,35,1
+348,Capers - Pickled,17315,52,4
+349,Wine - Pinot Noir Mondavi Coastal,36521,288,1
+350,Stock - Fish,17665,222,4
+351,Shrimp - 31/40,67482,276,4
+352,Longos - Chicken Wings,16909,210,3
+353,Lobak,48179,248,2
+354,Beans - Soya Bean,78863,135,4
+355,Wooden Mop Handle,74929,73,3
+356,"Tea - Darjeeling, Azzura",52891,121,5
+357,Coriander - Seed,80569,260,5
+358,Coffee - French Vanilla Frothy,74557,124,3
+359,Chicken Thigh - Bone Out,53677,61,5
+360,"Nut - Hazelnut, Ground, Natural",90450,27,5
+361,Jerusalem Artichoke,83875,164,3
+362,Food Colouring - Green,56846,190,4
+363,Tea - Orange Pekoe,65048,62,3
+364,Blueberries,36602,123,2
+365,Sauce - Balsamic Viniagrette,38127,282,1
+366,Zucchini - Green,85932,218,3
+367,Sorrel - Fresh,85460,32,3
+368,Cauliflower,92943,171,1
+369,Glass Clear 7 Oz Xl,33022,88,1
+370,Puree - Pear,89307,78,2
+371,Beer - Molson Excel,57542,182,1
+372,"Wine - White, Pelee Island",9410,177,3
+373,Squash - Acorn,1285,256,5
+374,"Tabasco Sauce, 2 Oz",75400,100,2
+375,"Lid - High Heat, Super Clear",6281,130,1
+376,Wine - Taylors Reserve,9628,70,1
+377,"Liners - Banana, Paper",71925,9,4
+378,Beef - Shank,58891,107,3
+379,Wine - Magnotta - Bel Paese White,14030,44,2
+380,Gooseberry,82771,263,4
+381,Sea Bass - Whole,10949,60,3
+382,Wine - Vineland Estate Semi - Dry,60975,172,1
+383,Truffle - Peelings,56102,148,1
+384,"Juice - Apple, 500 Ml",97852,101,1
+385,Bagelers,41681,245,2
+386,Arizona - Plum Green Tea,91076,6,4
+387,Apple - Granny Smith,90557,271,2
+388,Pop Shoppe Cream Soda,95686,50,4
+389,Plaintain,16905,174,4
+390,Cheese Cheddar Processed,39495,36,5
+391,Venison - Ground,72284,184,1
+392,Pear - Halves,90329,214,3
+393,Otomegusa Dashi Konbu,99745,116,3
+394,Wine - Conde De Valdemar,99756,203,1
+395,Energy Drink,85981,237,2
+396,"Pasta - Rotini, Dry",8613,85,2
+397,Lemons,6363,259,4
+398,Oil - Pumpkinseed,70702,279,4
+399,Yogurt - Assorted Pack,72435,230,3
+400,Rice Wine - Aji Mirin,20161,88,1
+401,Okra,17660,206,5
+402,Beef - Flank Steak,14124,212,5
+403,Wine - Riesling Alsace Ac 2001,94858,63,5
+404,Tuna - Yellowfin,13045,199,3
+405,Chips - Assorted,25984,22,4
+406,Bread - Dark Rye,14328,54,4
+407,Pork - Smoked Back Bacon,58478,97,4
+408,Wine - Guy Sage Touraine,69411,39,1
+409,Olives - Nicoise,26629,248,3
+410,"Beef - Baby, Liver",50789,72,4
+411,Magnotta Bel Paese Red,65645,192,2
+412,"Capon - Breast, Double, Wing On",85684,137,5
+413,Poppy Seed,34464,72,3
+414,"Halibut - Whole, Fresh",11288,261,3
+415,Ecolab - Ster Bac,34336,96,5
+416,Tilapia - Fillets,63818,194,1
+417,Raspberries - Fresh,72118,79,4
+418,Worcestershire Sauce,97963,175,4
+419,Cheese - Grie Des Champ,36697,52,3
+420,"Pork - Tenderloin, Frozen",18281,72,5
+421,"Juice - Apple, 500 Ml",50221,164,5
+422,"Chestnuts - Whole,canned",53039,290,4
+423,Lettuce - Belgian Endive,64152,278,1
+424,Soho Lychee Liqueur,2711,64,5
+425,Rabbit - Legs,33698,225,3
+426,Cornflakes,42373,102,1
+427,Ice Cream - Fudge Bars,53590,74,1
+428,Tomatoes - Roma,60511,184,2
+429,Phyllo Dough,97094,85,5
+430,Apples - Spartan,91086,147,3
+431,Pear - Packum,99131,48,5
+432,Southern Comfort,22620,2,5
+433,Oil - Sesame,19367,240,1
+434,Bread - Rosemary Focaccia,55128,130,3
+435,Fennel - Seeds,31777,259,4
+436,Cookie Double Choco,18463,40,5
+437,"Bread - Multigrain, Loaf",81025,69,2
+438,Tomatoes - Cherry,14263,163,3
+439,Flour - Strong,30968,145,1
+440,Basil - Thai,47731,142,2
+441,Vinegar - Red Wine,13414,289,1
+442,"Pork - Back, Short Cut, Boneless",21757,141,1
+443,Parsley - Fresh,68390,204,2
+444,Cheese - Bocconcini,26786,35,4
+445,"Brandy - Orange, Mc Guiness",94574,288,4
+446,Chocolate Bar - Smarties,43989,175,4
+447,Whmis Spray Bottle Graduated,91313,1,4
+448,Vaccum Bag 10x13,11214,233,2
+449,Beans - French,55629,9,4
+450,Clam Nectar,9962,267,1
+451,Anisette - Mcguiness,24427,58,3
+452,Cheese - Camembert,46688,156,3
+453,Veal - Knuckle,29303,206,1
+454,"Salmon - Atlantic, No Skin",52225,211,4
+455,"Tart Shells - Savory, 2",77492,208,3
+456,"Doilies - 12, Paper",85573,76,5
+457,Cookie Dough - Peanut Butter,24582,120,2
+458,Dried Apple,72450,206,2
+459,Wine - White Cab Sauv.on,77249,240,5
+460,Sherry - Dry,92602,122,1
+461,Rabbit - Saddles,98587,231,4
+462,Swordfish Loin Portions,15351,128,2
+463,Corn - On The Cob,48807,5,2
+464,"Spoon - Soup, Plastic",9639,250,1
+465,Chickensplit Half,29343,197,3
+466,Tomatoes - Roma,28362,223,2
+467,"Iced Tea - Lemon, 460 Ml",5730,230,5
+468,Dried Cherries,69395,158,5
+469,"Cheese - Brie, Cups 125g",95737,169,1
+470,Pear - Halves,50022,259,3
+471,Pumpkin - Seed,86574,1,5
+472,Chips Potato Reg 43g,50594,224,4
+473,Arizona - Plum Green Tea,53513,62,1
+474,Sauce - Mint,39634,178,2
+475,Rice - Brown,58367,111,4
+476,Amaretto,39259,42,4
+477,Truffle Cups - Red,61134,62,1
+478,Icecream - Dibs,29762,270,4
+479,Anchovy In Oil,67412,240,3
+480,Apple - Custard,11825,294,5
+481,Jello - Assorted,5905,291,1
+482,Beef - Top Sirloin - Aaa,63676,164,1
+483,Raisin - Golden,67193,27,1
+484,Cleaner - Pine Sol,7931,217,3
+485,"Cup - 6oz, Foam",1538,251,2
+486,Soup - Cream Of Broccoli,18081,237,4
+487,"Lid - 10,12,16 Oz",54936,62,4
+488,Lobster - Base,4022,262,3
+489,Beef - Ground Lean Fresh,31633,177,5
+490,Nantucket - Kiwi Berry Cktl.,53006,49,1
+491,Wine - Conde De Valdemar,54685,112,4
+492,Pastry - Banana Muffin - Mini,62187,92,4
+493,Oil - Olive,7048,163,5
+494,"Sauce - Gravy, Au Jus, Mix",84126,155,2
+495,Versatainer Nc - 8288,56573,220,3
+496,Muffin Batt - Choc Chk,63462,196,5
+497,Pork - Back Ribs,56139,145,5
+498,Juice - Propel Sport,51191,66,2
+499,Cheese - Roquefort Pappillon,21979,208,1
+500,"Coconut - Shredded, Unsweet",7455,144,4
+501,Pasta - Fusili Tri - Coloured,65044,282,3
+502,Pate - Peppercorn,74011,75,4
+503,"Yogurt - Blueberry, 175 Gr",33704,81,4
+504,Carbonated Water - White Grape,40572,158,4
+505,"Fish - Atlantic Salmon, Cold",52684,286,3
+506,Lettuce - Lambs Mash,45611,133,3
+507,Onions - Red Pearl,9656,43,4
+508,Wine - Sake,39951,15,3
+509,Miso Paste White,71838,113,4
+510,Wine - Manischewitz Concord,44929,219,5
+511,"Wine - Red, Pinot Noir, Chateau",76873,31,1
+512,Sage - Rubbed,70342,216,2
+513,Sherbet - Raspberry,17780,235,2
+514,"Coconut - Creamed, Pure",82852,219,2
+515,Soup - Campbells Chicken,96369,34,4
+516,"Water - Mineral, Natural",80729,89,3
+517,"Pasta - Gnocchi, Potato",76669,116,3
+518,Evaporated Milk - Skim,67854,37,1
+519,Basil - Seedlings Cookstown,97047,295,1
+520,Bread Cranberry Foccacia,44442,224,3
+521,"Wine - Saint - Bris 2002, Sauv",94243,288,5
+522,"Clams - Littleneck, Whole",24154,121,1
+523,Honey - Lavender,96946,243,3
+524,"Juice - Clam, 46 Oz",11135,134,4
+525,Kellogs Raisan Bran Bars,69137,90,1
+526,"Potatoes - Instant, Mashed",44921,64,4
+527,"Olives - Green, Pitted",15577,15,5
+528,Appetizer - Southwestern,41830,163,4
+529,Devonshire Cream,79507,200,5
+530,Tia Maria,20309,92,1
+531,Halibut - Steaks,3047,64,4
+532,Table Cloth - 53x69 Colour,50053,16,4
+533,Shallots,81720,130,1
+534,Puree - Kiwi,68793,44,1
+535,Soup - Base Broth Beef,70104,185,5
+536,Cheese - Swiss,28854,218,5
+537,Wine - Tio Pepe Sherry Fino,30169,132,2
+538,Icecream - Dibs,62571,169,5
+539,Bread - Hamburger Buns,26018,132,2
+540,Cookies - Englishbay Chochip,7346,289,1
+541,Bagelers,26882,39,2
+542,Tomato Puree,63678,248,5
+543,Devonshire Cream,30866,46,3
+544,"Chilli Paste, Sambal Oelek",84159,146,2
+545,Potatoes - Idaho 80 Count,31116,157,4
+546,Glaze - Clear,75325,252,2
+547,Mushroom - Chanterelle Frozen,29527,74,2
+548,"Pork - Bacon, Sliced",20955,130,3
+549,"Cookies - Oreo, 4 Pack",17188,179,3
+550,"Basil - Dry, Rubbed",84304,186,2
+551,Dc - Sakura Fu,89168,101,1
+552,Tuna - Loin,61728,145,4
+553,Spice - Montreal Steak Spice,21421,54,1
+554,"Cheese - Mozzarella, Buffalo",50112,46,1
+555,Evaporated Milk - Skim,12635,180,4
+556,"Wine - Magnotta, Merlot Sr Vqa",33772,69,2
+557,Sponge Cake Mix - Vanilla,60577,59,4
+558,Corn Syrup,4810,108,3
+559,Bread - Flat Bread,21685,47,2
+560,Momiji Oroshi Chili Sauce,52258,242,4
+561,Cheese - Comtomme,44313,54,2
+562,Soup Campbells - Italian Wedding,82399,291,5
+563,"Tart Shells - Savory, 3",79601,103,4
+564,Cucumber - Pickling Ontario,83744,135,3
+565,"Wine - White, Cooking",10823,61,1
+566,"Shrimp - Baby, Cold Water",46433,73,3
+567,Island Oasis - Ice Cream Mix,72382,123,4
+568,Garam Masala Powder,30257,249,4
+569,Sesame Seed,56385,139,3
+570,Pop - Club Soda Can,9355,291,1
+571,"Gingerale - Schweppes, 355 Ml",1815,256,1
+572,Fuji Apples,72767,145,4
+573,Steampan - Half Size Shallow,49087,161,4
+574,"Pork - Back, Short Cut, Boneless",52001,37,1
+575,"Tart Shells - Sweet, 3",5288,94,1
+576,Napkin White - Starched,99950,275,5
+577,Wine - Placido Pinot Grigo,35534,265,2
+578,Milk - Condensed,88714,156,4
+579,Remy Red Berry Infusion,68865,179,3
+580,Shrimp - 100 / 200 Cold Water,58873,251,3
+581,Barley - Pearl,86692,196,4
+582,Bay Leaf Fresh,24565,95,3
+583,Bread - Corn Muffaletta,5886,10,4
+584,Cabbage - Red,98395,30,2
+585,Bagelers,72936,294,2
+586,Blouse / Shirt / Sweater,77941,272,5
+587,Mussels - Frozen,10929,291,1
+588,Chivas Regal - 12 Year Old,69273,184,2
+589,"Tart Shells - Sweet, 4",97058,55,4
+590,Turnip - Mini,49927,164,3
+591,Sansho Powder,50429,66,5
+592,Cranberries - Frozen,1231,277,5
+593,Bread - 10 Grain Parisian,66152,218,5
+594,"Brownies - Two Bite, Chocolate",34650,184,2
+595,Venison - Ground,11886,59,3
+596,Pastry - Banana Tea Loaf,4203,121,5
+597,Muffin Batt - Carrot Spice,3119,51,5
+598,Cake - Night And Day Choclate,43442,102,5
+599,Squid - Tubes / Tenticles 10/20,85583,74,2
+600,V8 - Tropical Blend,14787,154,4
+601,Syrup - Monin - Passion Fruit,23443,162,3
+602,Wine - Chenin Blanc K.w.v.,80067,251,5
+603,Wine - Savigny - Les - Beaune,44391,89,4
+604,"Coke - Classic, 355 Ml",34504,284,4
+605,Appetizer - Escargot Puff,78773,10,1
+606,"Soup - Campbells, Butternut",2710,1,5
+607,Mikes Hard Lemonade,67051,132,5
+608,Wine - Jaboulet Cotes Du Rhone,38826,242,3
+609,"Shrimp - Baby, Warm Water",1742,98,5
+610,"Pork - Sausage, Medium",46767,216,1
+611,"Pork - Loin, Bone - In",86546,55,4
+612,Wine - Alsace Riesling Reserve,50057,270,1
+613,Wine - Malbec Trapiche Reserve,88742,180,2
+614,Pork - Shoulder,81924,188,4
+615,Beef - Striploin,82180,33,4
+616,Water - Perrier,33909,254,4
+617,Initation Crab Meat,56861,248,5
+618,Lettuce - Boston Bib - Organic,79762,264,3
+619,Sobe - Cranberry Grapefruit,13584,94,1
+620,Artichokes - Jerusalem,81769,114,5
+621,Pork - Kidney,39450,289,4
+622,Tea - Jasmin Green,73113,43,2
+623,Coffee - Ristretto Coffee Capsule,47383,128,4
+624,"Onions - Dried, Chopped",31865,263,1
+625,Extract - Raspberry,67244,133,3
+626,Mahi Mahi,14501,114,4
+627,Wine - Pinot Noir Latour,48868,225,4
+628,Plaintain,48009,26,3
+629,Spice - Chili Powder Mexican,63596,68,3
+630,Table Cloth 81x81 White,73744,145,2
+631,"Juice - V8, Tomato",31215,63,1
+632,Curry Powder,34535,36,4
+633,Spinach - Spinach Leaf,47217,199,1
+634,Bok Choy - Baby,31703,156,4
+635,Tea - Herbal I Love Lemon,32008,258,5
+636,"Beans - Kidney, Red Dry",83081,127,2
+637,"Nut - Almond, Blanched, Ground",49559,130,5
+638,Milk - Buttermilk,41110,86,2
+639,"Beef - Chuck, Boneless",69212,55,5
+640,Muffin - Blueberry Individual,49500,167,1
+641,Molasses - Fancy,53756,43,3
+642,Beer - Steamwhistle,22339,111,5
+643,Banana - Leaves,26159,174,1
+644,Tea - Grapefruit Green Tea,64584,178,4
+645,Soup - Campbells Beef Strogonoff,39656,179,5
+646,Truffle Cups - Brown,86510,236,2
+647,Shallots,87261,198,4
+648,Sugar - Icing,73658,59,3
+649,Muffin Hinge - 211n,18438,197,1
+650,Basil - Thai,37516,276,4
+651,Longos - Chicken Cordon Bleu,80952,161,5
+652,Wine - Casablanca Valley,60831,69,4
+653,Celery Root,16233,115,1
+654,"Wine - Niagara,vqa Reisling",35222,130,5
+655,Milk - Homo,16296,165,1
+656,Fireball Whisky,1289,132,3
+657,Tamarind Paste,68316,234,3
+658,Sauce - Vodka Blush,36564,258,2
+659,Paper Cocktail Umberlla 80 - 180,18589,275,1
+660,Juice - Ocean Spray Kiwi,75733,281,2
+661,"Quail - Eggs, Fresh",78175,84,1
+662,"Juice - V8, Tomato",37300,296,4
+663,Tomatoes - Cherry,84179,230,1
+664,Milk Powder,57681,121,5
+665,Bandage - Fexible 1x3,38427,2,2
+666,Muffin Batt - Blueberry Passion,12560,114,3
+667,"Pasta - Shells, Medium, Dry",42746,223,4
+668,Mushrooms - Honey,66744,56,4
+669,"Lid - High Heat, Super Clear",73297,220,1
+670,Pork - Caul Fat,7155,52,5
+671,Wine - Chardonnay South,6278,116,1
+672,Bread - Corn Muffaletta,21992,11,2
+673,Beef Cheek Fresh,42489,148,2
+674,Cake Sheet Combo Party Pack,88383,5,3
+675,Salad Dressing,13569,192,4
+676,Melon - Cantaloupe,83874,247,5
+677,Coffee - Ristretto Coffee Capsule,7972,76,4
+678,Bagelers - Cinn / Brown Sugar,35903,127,2
+679,Beer - Mill St Organic,66682,212,2
+680,"Roe - Lump Fish, Red",28901,218,5
+681,Flour - Rye,3870,3,3
+682,Table Cloth 54x72 White,71309,238,2
+683,"Tortillas - Flour, 10",27649,191,1
+684,Oil - Macadamia,20621,206,4
+685,"Halibut - Whole, Fresh",84020,228,2
+686,Potatoes - Fingerling 4 Oz,60160,73,5
+687,Lettuce - Sea / Sea Asparagus,84575,226,1
+688,Onions - White,24351,56,4
+689,Cumin - Ground,68400,83,1
+690,Glove - Cutting,33272,37,4
+691,Durian Fruit,56905,97,5
+692,Wine - Taylors Reserve,53898,7,3
+693,Cheese - Parmesan Cubes,52943,192,4
+694,"Beans - Kidney, Canned",35419,232,4
+695,Petite Baguette,14321,221,2
+696,Chocolate Bar - Smarties,31831,90,1
+697,Dc Hikiage Hira Huba,27938,144,3
+698,Table Cloth 81x81 Colour,69407,167,1
+699,Pie Filling - Apple,26420,33,5
+700,Spice - Pepper Portions,57173,239,5
+701,Milk - 2%,14387,163,5
+702,Wine - Pinot Noir Mondavi Coastal,43143,246,3
+703,Cinnamon - Stick,18542,100,4
+704,"Oregano - Dry, Rubbed",37432,34,1
+705,Chinese Foods - Chicken,12389,192,4
+706,"Pork - Tenderloin, Fresh",95486,176,4
+707,Clams - Bay,8853,148,2
+708,Straw - Regular,43906,53,3
+709,Rice Paper,1578,74,2
+710,Hagen Daza - Dk Choocolate,90169,78,5
+711,Rice - Sushi,79202,298,3
+712,"Water - Mineral, Carbonated",27171,25,1
+713,Pepper - Jalapeno,34412,251,5
+714,Monkfish - Fresh,80948,169,4
+715,Artichoke - Fresh,24881,91,4
+716,Potatoes - Parissienne,47396,75,3
+717,"Vermouth - White, Cinzano",71534,39,2
+718,Raspberries - Frozen,72590,58,4
+719,"Tart Shells - Savory, 2",4299,43,2
+720,"Asparagus - Green, Fresh",61641,132,5
+721,Goldschalger,90936,100,3
+722,Mushroom - King Eryingii,79963,60,4
+723,Bar Nature Valley,19981,126,5
+724,"Wine - Red, Pelee Island Merlot",28432,95,3
+725,"Rice Pilaf, Dry,package",26647,168,1
+726,"Bread - Roll, Calabrese",4565,253,3
+727,Tea Leaves - Oolong,36823,243,1
+728,Potatoes - Pei 10 Oz,54984,112,4
+729,"Crab - Blue, Frozen",67182,222,2
+730,Port - 74 Brights,79076,73,5
+731,Truffle Cups Green,60296,73,2
+732,Chips - Potato Jalapeno,26297,69,2
+733,Vodka - Smirnoff,22130,226,5
+734,"Wine - White, Antinore Orvieto",96550,130,2
+735,Cumin - Whole,48107,247,2
+736,Beets - Mini Golden,44049,257,5
+737,Pur Source,47113,112,4
+738,Bread - Rye,81637,173,1
+739,Broom And Broom Rack White,43915,129,5
+740,"Coconut - Shredded, Unsweet",21751,126,4
+741,"Tarragon - Primerba, Paste",54308,213,4
+742,"Soup - Clam Chowder, Dry Mix",9485,96,5
+743,"Beef - Rib Roast, Cap On",45449,34,1
+744,Water - Green Tea Refresher,41744,29,3
+745,Brandy Apricot,11123,198,1
+746,Pears - Bosc,82422,26,1
+747,Foil Wrap,48043,185,5
+748,Pepper - Red Thai,41466,81,4
+749,Beef - Striploin Aa,70203,32,1
+750,Clams - Canned,68432,16,5
+751,Mangostein,37967,43,2
+752,Quiche Assorted,96475,146,2
+753,Wine - Charddonnay Errazuriz,33991,222,2
+754,Sugar - Crumb,31125,144,4
+755,Aspic - Clear,59865,156,3
+756,Cheese - Marble,71238,189,4
+757,Wheat - Soft Kernal Of Wheat,62904,96,5
+758,Cream - 35%,71442,117,2
+759,"Squash - Pattypan, Yellow",6533,151,1
+760,Dates,94682,6,4
+761,Wine - Guy Sage Touraine,54875,49,1
+762,Veal - Provimi Inside,61430,180,4
+763,Sole - Iqf,45958,64,5
+764,Cloves - Whole,49757,260,5
+765,"Lamb - Leg, Diced",93432,85,1
+766,Contreau,44887,47,5
+767,Veal - Bones,42979,142,2
+768,Waffle Stix,48405,146,3
+769,Tomatoes - Hot House,55200,30,5
+770,Squash - Butternut,99699,20,4
+771,Wine - Saint Emilion Calvet,25766,24,5
+772,V8 - Vegetable Cocktail,99091,37,1
+773,Chips Potato Swt Chilli Sour,2037,260,2
+774,Salt - Sea,54250,42,2
+775,Bread - Malt,84883,177,3
+776,Wine - Magnotta - Bel Paese White,88240,17,1
+777,Grapefruit - White,19840,254,1
+778,Wine - Periguita Fonseca,77845,258,2
+779,Wine - Chianti Classico Riserva,5881,80,1
+780,Ketchup - Tomato,95380,94,5
+781,Sauce - Cranberry,62417,286,1
+782,"Coconut - Shredded, Sweet",50473,207,5
+783,Nori Sea Weed,92071,171,4
+784,"Pork - Butt, Boneless",34867,256,3
+785,Durian Fruit,25003,244,2
+786,"Mushroom - Shitake, Fresh",26535,27,5
+787,"Pork - Bacon,back Peameal",62590,243,5
+788,"Pork - Bacon, Double Smoked",18647,72,5
+789,Cookie Choc,38698,110,1
+790,"Yogurt - Banana, 175 Gr",74439,45,4
+791,Mustard - Pommery,65795,1,2
+792,"Pail - 4l White, With Handle",54934,138,5
+793,Salmon - Sockeye Raw,77014,43,1
+794,Puree - Passion Fruit,29726,149,4
+795,Cheese Cheddar Processed,24518,83,2
+796,Squid - Breaded,55208,185,5
+797,"Crab - Claws, Snow 16 - 24",83725,93,5
+798,"Chicken - White Meat, No Tender",31573,121,4
+799,Coffee - Hazelnut Cream,75771,179,1
+800,Tomato - Plum With Basil,49976,247,4
+801,Pepper Squash,42271,240,3
+802,"Wine - Cahors Ac 2000, Clos",56792,192,1
+803,Oil - Safflower,64073,122,2
+804,Wine - Balbach Riverside,66209,196,2
+805,"Wine - Red, Metus Rose",42010,193,1
+806,Wine - Rubyport,62998,40,2
+807,"Orange - Canned, Mandarin",89467,2,1
+808,Crush - Cream Soda,91436,210,2
+809,Scallops - U - 10,93447,203,4
+810,Wine - Pinot Noir Pond Haddock,61758,132,4
+811,Longos - Chicken Wings,55144,141,4
+812,"Asparagus - White, Fresh",93907,130,2
+813,Lettuce - Treviso,15398,65,2
+814,Coffee - Egg Nog Capuccino,63451,298,3
+815,Carbonated Water - Orange,56908,20,2
+816,Cocoa Feuilletine,58334,94,1
+817,"Salmon - Smoked, Sliced",10385,103,3
+818,Cups 10oz Trans,75093,53,2
+819,Soup - Campbells Chicken,59377,78,1
+820,"Lid - High Heat, Super Clear",17997,98,5
+821,Parsnip,48751,67,5
+822,Cheese - Blue,70073,260,3
+823,"Wine - Red, Antinori Santa",75213,135,4
+824,Tofu - Soft,84861,214,3
+825,Lid - 16 Oz And 32 Oz,6372,61,1
+826,"Nut - Pine Nuts, Whole",19870,193,1
+827,Raisin - Golden,75622,15,1
+828,Cookies - Fortune,59056,10,4
+829,Chicken - Wieners,11249,75,1
+830,Salmon - Canned,17584,254,3
+831,Bar Energy Chocchip,22769,294,4
+832,Orange Roughy 6/8 Oz,96284,45,4
+833,"Asparagus - Green, Fresh",84905,243,1
+834,"Wine - Saint - Bris 2002, Sauv",53251,3,3
+835,Chinese Foods - Pepper Beef,53536,127,1
+836,Goulash Seasoning,42699,286,5
+837,Cake - Cheese Cake 9 Inch,84600,243,1
+838,Longos - Chicken Curried,14702,24,5
+839,Veal - Striploin,40115,55,1
+840,Appetizer - Mushroom Tart,63447,188,1
+841,Water - Spring 1.5lit,51182,62,5
+842,Pastry - Chocolate Marble Tea,54616,279,4
+843,"Oregano - Dry, Rubbed",43516,161,5
+844,Longos - Chicken Curried,16296,133,2
+845,Wine - Vouvray Cuvee Domaine,11669,174,5
+846,Vinegar - Rice,73398,80,5
+847,Olives - Stuffed,25228,43,2
+848,Beer - Guiness,88353,86,4
+849,Wine - Puligny Montrachet A.,58592,294,4
+850,Table Cloth 90x90 White,90950,269,3
+851,Trout - Smoked,80543,118,4
+852,Pepsi - 600ml,95684,122,3
+853,Jack Daniels,97489,188,1
+854,"Juice - Pineapple, 48 Oz",30878,295,5
+855,"Tart Shells - Savory, 4",22897,194,2
+856,Tart - Raisin And Pecan,36683,159,4
+857,Grouper - Fresh,90811,135,5
+858,Remy Red Berry Infusion,62703,123,2
+859,Daves Island Stinger,92702,202,4
+860,Spic And Span All Purpose,93027,54,4
+861,"Iced Tea - Lemon, 340ml",3354,84,4
+862,"Napkin - Beverge, White 2 - Ply",79980,226,4
+863,Banana,45937,31,5
+864,Beer - Fruli,22136,17,5
+865,Appetizer - Shrimp Puff,63267,268,4
+866,Beef Striploin Aaa,27071,234,2
+867,Sage Ground Wiberg,45534,256,1
+868,Squash - Acorn,17696,57,1
+869,Nougat - Paste / Cream,68088,297,2
+870,Artichokes - Jerusalem,16825,84,5
+871,Snapple - Iced Tea Peach,82209,300,1
+872,Pork - Hock And Feet Attached,56092,207,2
+873,Venison - Denver Leg Boneless,80546,175,1
+874,Spice - Greek 1 Step,42564,147,5
+875,Ecolab Digiclean Mild Fm,9129,173,1
+876,Crawfish,37874,138,4
+877,Dikon,86116,47,1
+878,Jolt Cola,32661,195,4
+879,Plums - Red,4657,263,5
+880,"Chocolate - Semi Sweet, Calets",71522,241,1
+881,Sauce - Vodka Blush,3500,265,1
+882,Cranberries - Frozen,19649,103,5
+883,Shark - Loin,78378,252,4
+884,Yoghurt Tubes,49506,231,5
+885,Longos - Assorted Sandwich,98699,180,3
+886,Pickerel - Fillets,61974,240,5
+887,Soup Campbells,87649,233,3
+888,Sobe - Lizard Fuel,22941,248,5
+889,Wine - Chateau Aqueria Tavel,42219,296,1
+890,"Doilies - 8, Paper",18030,141,2
+891,Ecolab Crystal Fusion,73690,74,5
+892,"Vermacelli - Sprinkles, Assorted",5126,210,4
+893,Chicken - Base,8504,61,3
+894,Bread - Italian Sesame Poly,49797,187,2
+895,Sage - Rubbed,46949,293,3
+896,Dill Weed - Dry,23543,96,4
+897,Danishes - Mini Cheese,25766,298,4
+898,Turnip - White,1308,11,4
+899,The Pop Shoppe - Lime Rickey,63589,202,1
+900,Muffin Batt - Blueberry Passion,14796,19,3
+901,Sachet,45781,246,4
+902,Wine - Vouvray Cuvee Domaine,6367,204,1
+903,Lettuce - Lolla Rosa,48511,107,3
+904,Chinese Foods - Thick Noodles,4584,232,5
+905,Petit Baguette,96847,156,3
+906,Sour Puss Sour Apple,33395,27,2
+907,Grapes - Black,29174,99,1
+908,Wine - Black Tower Qr,8325,92,1
+909,Wine - Alsace Gewurztraminer,90043,269,4
+910,Bag Stand,54193,232,3
+911,Carbonated Water - Blackcherry,89461,58,5
+912,Momiji Oroshi Chili Sauce,89493,51,2
+913,The Pop Shoppe - Black Cherry,14118,19,2
+914,"Chocolate - Semi Sweet, Calets",58693,212,3
+915,Sloe Gin - Mcguinness,39544,233,1
+916,Table Cloth 54x72 Colour,74890,80,3
+917,Filo Dough,38648,197,5
+918,Soup - Campbells Pasta Fagioli,55789,225,3
+919,Muffin - Mix - Creme Brule 15l,65576,80,3
+920,Juice - Lime,97042,263,4
+921,"Vodka - Lemon, Absolut",95477,164,3
+922,Sauce - Thousand Island,6555,47,4
+923,Wine - Toasted Head,1906,87,5
+924,Lentils - Green Le Puy,72423,133,5
+925,"Lemonade - Island Tea, 591 Ml",7401,21,2
+926,Catfish - Fillets,48433,18,2
+927,Bagel - Everything,64592,298,3
+928,Sprouts - Peppercress,6374,237,5
+929,Ham - Procutinni,50272,94,1
+930,"Crush - Grape, 355 Ml",37443,280,2
+931,Glaze - Clear,63194,276,5
+932,Bar Mix - Lemon,73239,190,2
+933,"Mushroom - Trumpet, Dry",73217,145,2
+934,Anchovy Paste - 56 G Tube,77709,151,1
+935,Pastry - Baked Scones - Mini,80421,32,1
+936,Milk - 2%,71976,290,5
+937,Boogies,64574,111,3
+938,"Crab - Claws, 26 - 30",73693,184,2
+939,"Pasta - Elbows, Macaroni, Dry",14086,246,2
+940,Wine - Riesling Dr. Pauly,5182,263,2
+941,"Pork - Sausage, Medium",95832,264,5
+942,"Pasta - Orzo, Dry",18188,215,1
+943,Puree - Pear,74456,142,1
+944,Dried Peach,7604,168,1
+945,Pastry - Mini French Pastries,87377,244,5
+946,Spice - Pepper Portions,93781,3,4
+947,Cake - Box Window 10x10x2.5,3579,286,1
+948,"Fish - Scallops, Cold Smoked",13827,124,4
+949,Crab Meat Claw Pasteurise,90583,72,5
+950,"Pasta - Gnocchi, Potato",78738,216,4
+951,"Sauce - White, Mix",87691,213,1
+952,Cookies - Assorted,1002,155,4
+953,Vegetable - Base,33798,82,4
+954,Ostrich - Fan Fillet,76141,25,5
+955,"Bread - Pumpernickle, Rounds",79125,1,1
+956,Sambuca - Ramazzotti,85702,36,2
+957,Chicken Breast Halal,60286,146,4
+958,Mousse - Mango,10918,112,4
+959,Five Alive Citrus,84368,145,2
+960,"Bread - Dark Rye, Loaf",27499,254,3
+961,Pastry - Cheese Baked Scones,48993,252,3
+962,Pork - Inside,7444,65,1
+963,Ecolab Crystal Fusion,36554,30,1
+964,Venison - Liver,51795,235,2
+965,Nougat - Paste / Cream,3460,142,1
+966,Sobe - Green Tea,71904,83,4
+967,Tray - 16in Rnd Blk,62651,69,4
+968,Jello - Assorted,82333,226,1
+969,Scallop - St. Jaques,25935,107,3
+970,Dooleys Toffee,34593,89,2
+971,Table Cloth 62x120 White,95092,272,4
+972,Cactus Pads,40784,164,4
+973,Parsnip,36995,251,1
+974,Maple Syrup,67826,166,1
+975,Cake - Miini Cheesecake Cherry,52545,163,4
+976,Bar Mix - Lemon,47166,9,1
+977,Bread - Granary Small Pull,81298,102,4
+978,Wine - Masi Valpolocell,57458,20,5
+979,Ham Black Forest,34773,116,1
+980,Chips - Assorted,10846,218,3
+981,"Veal - Insides, Grains",16208,166,5
+982,Petite Baguette,89027,252,2
+983,Extract - Raspberry,66444,137,2
+984,Stock - Fish,59479,164,5
+985,"Lentils - Green, Dry",42299,257,2
+986,Steampan - Half Size Shallow,23663,123,2
+987,"Nut - Almond, Blanched, Sliced",85805,255,1
+988,Brandy Apricot,29589,54,4
+989,Seabream Whole Farmed,82694,108,2
+990,Muffin Mix - Raisin Bran,56263,43,2
+991,Nut - Macadamia,15281,286,5
+992,Greens Mustard,62364,17,5
+993,Tandoori Curry Paste,27393,136,5
+994,"Beans - Black Bean, Preserved",31162,123,3
+995,Cookies - Assorted,88380,98,1
+996,Wine - Rosso Toscano Igt,72017,95,1
+997,"Sprite, Diet - 355ml",39378,225,4
+998,Dried Cherries,96706,150,2
+999,Tomatoes - Grape,71569,121,5
+1000,Fond - Chocolate,99385,300,2
